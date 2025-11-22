@@ -35,6 +35,7 @@ ___
 - Guided weekly discussions and graded relevant coursework
 
 ---
+
 ## Involvement
 **Effective Altruism Boston College (EABC) AI-Alignment Fellowship**
 - Learned about the underlying mechanisms of Artificial Intelligence and the actual and philosophical risks posed to humanity
@@ -42,6 +43,8 @@ ___
 
 **Student AI Advisory Board**
 - Assessed GenAI tools for academic use and delivered actionable feedback to the faculty advisory board to guide policy and implementation
+
+___
 
 ## Connect
 - Email: meduffy918@gmail.com
