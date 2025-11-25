@@ -6,7 +6,7 @@ Aspiring SWE | Interested in algorithms, full-stack dev, and AI ethics/alignment
 ---
 
 ## About Me
-I'm a sophomore at Boston College studying **Computer Science + Philosophy**, where I love exploring both the technical and conceptual sides of computing.  
+I'm a sophomore at Boston College studying **Computer Science + Philosophy**, with a minor in **general business** where I love exploring both the technical and conceptual sides of computing.  
 Right now, I’m focused on strengthening my fundamentals in software engineering and building projects that connect technical CS with ethical/AI-alignment ideas.
 
 ---
